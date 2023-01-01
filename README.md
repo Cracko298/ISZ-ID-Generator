@@ -1,5 +1,5 @@
 # ISZ-ID-Generator
-An ID Generator for Ice Station Z. Made for brute forcing nearly all 19.34 billion Unique ID's.
+- An Player ID Generator for Ice Station Z. Made for brute forcing nearly all 19.34 billion Unique ID's.
 
 # Features:
 - Mass Generate ID's.
