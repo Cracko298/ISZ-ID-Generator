@@ -9,7 +9,7 @@ An ID Generator for Ice Station Z. Made for brute forcing nearly all 19.34 billi
 # FAQs:
 ***How Many ID's Are Correct?***
 
-- *For every 100K ID's generated. Only ~391 ID's are actually connected to Players.*
+- *For every 100K ID's generated. Only ~391 ID's are actually possible for Players to recieve.*
 
 ***Why does this Script make the file so big?***
 
