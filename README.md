@@ -1,6 +1,10 @@
 # ISZ-ID-Generator
 - An Player ID Generator for Ice Station Z. Made for brute forcing nearly all 19.34 billion Unique ID's.
 
+# Download:
+- [Download](https://github.com/Cracko298/ISZ-ID-Generator/blob/main/dist/ID-Generator.exe?raw=true).
+
+
 # Features:
 - Mass Generate ID's.
 - Made to Butefrorce ID's of all Players.
